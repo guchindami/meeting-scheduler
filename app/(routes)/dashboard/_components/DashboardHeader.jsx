@@ -11,7 +11,6 @@ import {
     DropdownMenuSeparator,
     DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-
 function DashboardHeader() {
     const { user } = useKindeBrowserClient();
 
